@@ -19,7 +19,7 @@ If you use Obsidian, any imported graphic PNG files are held in a directory by y
 
 The work around is to embedded the image in your note as an ASCII data string with the right wrapper.  [IBM docling will do this](https://github.com/DS4SD/docling), but it embeds it as a PNG file, which is pretty big.  To make the image as small as possible, I use webp compression.  I then put the wrapper around the data, which is very small, and I save it as a .md file.  This means you can now open it.
 
-When you put it in as a ASCII data string, it gets 33% larger due to ASCII only using 6 or 8 bits.  However, webp files are pretty small.
+When you put it in as a ASCII data string, it gets 33% larger due to ASCII only using 6 of 8 bits.  However, webp files are pretty small.
 
 Why PNG files as the base?  The snipping tool in Win11 defaults to PNG, so I found that I was using PNG files a lot.
 
