@@ -1,5 +1,5 @@
 # PNG2MD
-A small compiled Python Program To Convert a PNG into a MD file, which I built to help pull PNG files into files to Obsidian as text.
+A small compiled Python Program To Convert a PNG into a MD file, which you can then simply read in Obsidian (or other md editors).
 
 # GIVE IT TO ME NOW:
 
