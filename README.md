@@ -1,5 +1,5 @@
 # PNG2MD
-A small compiled Python Program To Convert a PNG into a MD file, which you can then simply read in Obsidian (or other md editors).
+A small program To Convert a PNG into a MD file, which you can then simply read in Obsidian (or other md editors).
 
 # GIVE IT TO ME NOW:
 
@@ -22,6 +22,8 @@ The work around is to embedded the image in your note as an ASCII data string wi
 When you put it in as a ASCII data string, it gets 33% larger due to ASCII only using 6 or 8 bits.  However, webp files are pretty small.
 
 Why PNG files as the base?  The snipping tool in Win11 defaults to PNG, so I found that I was using PNG files a lot.
+
+Why python?  Because it a great hackable language.  I compiled it so you don't need to run it as a script.
 
 ### 1. This is a compiled python script to run under Windows
 - **Only tested to run under Win 11 Home and Pro**:  However, probably can run under Win 10.  Post results
