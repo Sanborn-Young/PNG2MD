@@ -17,7 +17,7 @@ _For markdown users that use PNG files in their Obsidian Vault (or other markdow
 
 If you use Obsidian, any imported graphic PNG files are held in a directory by your note.md file.  The image is then hot linked into the note so you can see the image.  However, if you want to send the MD file somewhere, you have to also send the images as a separate image, or you need to compile the note into something like a PDF, which is not easily edited.  
 
-The work around is to embedded the image in your note as an ASCII data string with the right wrapper.  [IBM docling will do this](https://github.com/DS4SD/docling), bit it embeds it as a PNG file, which is pretty big.  To make the image as small as possible, I use webp compression.  I then put the wrapper around the data, which is very small, and I save it as a .md file.  This means you can now open it.
+The work around is to embedded the image in your note as an ASCII data string with the right wrapper.  [IBM docling will do this](https://github.com/DS4SD/docling), but it embeds it as a PNG file, which is pretty big.  To make the image as small as possible, I use webp compression.  I then put the wrapper around the data, which is very small, and I save it as a .md file.  This means you can now open it.
 
 When you put it in as a ASCII data string, it gets 33% larger due to ASCII only using 6 or 8 bits.  However, webp files are pretty small.
 
