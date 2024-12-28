@@ -1,7 +1,14 @@
 # PNG2MD
 A small compiled Python Program To Convert a PNG into a MD file.
 
-**Summary:  Who is this for?**
+# GIVE IT TO ME NOW:
+
+1. Click on the file that says PNG2MD.exe
+2. Click on the download icon, and put it anywhere you can double click on it.
+3. Windows will warn you that it hasn't check it out, and if you are worried about it, you'll need to compile it yourself
+4. Double click and it and pick your file
+
+# A Longer Summary:  Who is this for?
 
 _For markdown users that use PNG files in their Obsidian Vault (or other markdown packages) and want to quickly turn separate PNG files into text files that you can embed in any Obsidian (markdown) page so so that the image is carried along inside the text file_
 
