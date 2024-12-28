@@ -6,7 +6,7 @@ A small compiled Python Program To Convert a PNG into a MD file, which you can t
 1. Click on the file that says PNG2MD.exe in the file list
 2. Click on the github download icon, and put it anywhere you can double click on it.
 3. Windows will warn you that it hasn't check it out, and if you are worried about it, you'll need to compile it yourself
-4. Double click and it to run it.  It is barebones, so only one file.
+4. Double click the download program to run it.  It is barebones, so only one file.  It doesn't install because it just runs.
 5. If you don't plan to recompile the code, you don't need any other files
 
 # A Longer Summary:  Who is this for?
